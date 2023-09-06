@@ -14,7 +14,7 @@ function BarChart(ID){
         let otu_labels = samples.otu_labels;
         let new_otu_ids=otu_ids
         // Adding the string 'OTU' to otu_ids 
-        for (let i=0;i<10;i++){
+        for (let i=0;i<sample_values.length;i++){
             new_otu_ids[i]=`OTU ${otu_ids[i]}`;
         } 
         // storing variables in object within array along with style choices
@@ -101,5 +101,4 @@ function init(){
         let option = dropdownMenu.append("option").text(IDs[i]);
 }})}
     
-
 init()
