@@ -8,8 +8,6 @@ This link will take you to the completed webpage. <br>
 link to webpage: https://jackhast.github.io/belly-button-challenge/
 
 
-The horizontal barchart 
-
 # Contents of Repository 
 
 This repository contains an html file index.html which runs a javascript file app.js contained in static/js.
