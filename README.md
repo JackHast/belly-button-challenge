@@ -2,7 +2,7 @@
 
 # Description
 
-The purpose of this repository is to create a webpage utilising Javascript libraries d3.js and plotly.js to provide .
+The purpose of this repository is to create a webpage utilising Javascript libraries d3.js and plotly.js to provide visualisations of the Belly Button Biodiversity data set (http://robdunnlab.com/projects/belly-button-biodiversity/). The dataset provides information of the bacteria inhabitating the navels of over 1500 people along with demographic information. The webpage created provides a bar and bubble charts to visualise the 
 
 This link will take you to the completed webpage. <br>
 link to webpage: https://jackhast.github.io/belly-button-challenge/
@@ -18,8 +18,8 @@ The sample data samples.json is provided however is not used by app.js, rather t
 
 # Instructions
 
-The repository can be downloaded from github and the code can be displayed and edited in any code editor such as VScode. The webpage can also be accessed locally 
+The repository can be downloaded from github and the code can be displayed and edited in any code editor such as VScode. The webpage can also be accessed locally by simply clicking on the html.index file. 
 
 # Acknowledgements
 
-This repository was created by Jack Hastings, however, the html and data was provided the Monash Data Analytics Bootcamp, link: https://bootcamps.monash.edu/data/.
+This repository was created by Jack Hastings, however, the html and data was provided by the Monash Data Analytics Bootcamp, link: https://bootcamps.monash.edu/data/.
