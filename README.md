@@ -2,12 +2,11 @@
 
 # Description
 
-The purpose of this repository is to create a webpage utilising Javascript libraries d3.js and plotly.js to provide visualisations of the Belly Button Biodiversity data set (http://robdunnlab.com/projects/belly-button-biodiversity/). The dataset provides information of the bacteria inhabitating the navels of over 1500 people along with demographic information. The webpage created provides a bar and bubble charts to visualise the 
+The purpose of this repository is to create a webpage utilising Javascript libraries d3.js and plotly.js to provide interactive visualisations of the Belly Button Biodiversity data set (http://robdunnlab.com/projects/belly-button-biodiversity/). The dataset provides information of the bacteria inhabitating the navels of over 1500 people along with demographic information. The webpage created provides a bar and bubble charts to visualise the prevalence of certain bacteria in individuals and can be changed using the dropdown menu to change the individual who's information is displayed in the visualisations. 
 
 This link will take you to the completed webpage. <br>
 link to webpage: https://jackhast.github.io/belly-button-challenge/
 
-The user can can change the ID number and the bar and bubble charts along with the demographic info panel will be updated to show the relevant information for that specific user.  
 
 The horizontal barchart 
 
